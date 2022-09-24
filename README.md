@@ -3,5 +3,5 @@
     Create a profile picture for each user with the first letter of both first name and last name.
     Create a form to add a new user to the existing data (locally). 
     
-![Screenshot 2022-09-24 at 16-17-03 React App](https://user-images.githubusercontent.com/59435156/192094021-20da4d75-1528-44b0-8e57-76602ba1f8a0.png)
+![Screenshot 2022-09-24 at 16-26-28 React App](https://user-images.githubusercontent.com/59435156/192094123-7e9930c9-e067-4a4e-8e5b-237acb14f55c.png)
 ![Screenshot 2022-09-24 at 16-25-06 React App](https://user-images.githubusercontent.com/59435156/192094066-7376c8e6-99da-4618-994c-69c1df1ef70a.png)
